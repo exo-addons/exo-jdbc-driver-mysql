@@ -8,6 +8,7 @@ See [official download page](https://dev.mysql.com/downloads/connector/j/) for m
 
 | Addon version | Jdbc Driver version | Recommanded for eXo version |
 | ------------- | ------------------- | --------------------------- |
+| 1.4.0         | 8.0.16              | 5.3.x                       |
 | 1.3.0         | 5.1.47              | 5.2.x                       |
 | 1.2.0         | 5.1.46              | 5.1.x                       |
 | 1.1.0         | 5.1.44              | 5.0.x                       |
