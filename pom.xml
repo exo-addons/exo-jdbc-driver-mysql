@@ -41,7 +41,7 @@
   </scm>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <mysql.driver.version>8.0.20</mysql.driver.version>
+    <mysql.driver.version>8.0.27</mysql.driver.version>
   </properties>
   <dependencies>
     <dependency>
